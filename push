@@ -1,1 +1,2 @@
+cp SUMMARY.md index.md
 git add . && git commit -m "$1" && git push
