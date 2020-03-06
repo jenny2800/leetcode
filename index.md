@@ -1,2 +1,2 @@
-Leetcode Index
-[7.Reverse Integer](7.reverse_integer.md)
+# Leetcode Index  
+[7.Reverse Integer](7.reverse_integer.md)  
